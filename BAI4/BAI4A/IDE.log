@@ -1,0 +1,18 @@
+14:37:51 DEBUG : Logs will be stored at 'C:/HOC/HW_SW/BAI4/IDE.log'.
+14:37:53 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\HOC\HW_SW\BAI4\temp_xsdb_launch_script.tcl
+14:37:53 INFO  : Registering command handlers for Vitis TCF services
+14:37:54 INFO  : Platform repository initialization has completed.
+14:37:56 INFO  : XSCT server has started successfully.
+14:37:59 INFO  : Successfully done setting XSCT server connection channel  
+14:37:59 INFO  : plnx-install-location is set to ''
+14:37:59 INFO  : Successfully done query RDI_DATADIR 
+14:37:59 INFO  : Successfully done setting workspace for the tool. 
+14:44:42 INFO  : Result from executing command 'getProjects': led_test_system_wrapper
+14:44:42 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/APP/VIVADO/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/APP/VIVADO/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/APP/VIVADO/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+14:44:42 WARN  : An unexpected exception occurred in the module 'platform project logging'
+14:44:43 INFO  : Platform 'led_test_system_wrapper' is added to custom repositories.
+14:44:50 INFO  : Platform 'led_test_system_wrapper' is added to custom repositories.
+14:59:47 INFO  : Saving repository preferences.
+14:59:47 INFO  : Reading in cores from local repositories: 
+		 C:\HOC\HW_SW\BAI4\ip_repo\led_controller_1_0
+14:59:47 INFO  : Cleaning BSP projects in the workspace.

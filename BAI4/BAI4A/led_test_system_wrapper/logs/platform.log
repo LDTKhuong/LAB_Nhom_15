@@ -1,0 +1,2280 @@
+TRACE::2026-06-01.14:44:33::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:33::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:33::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:33::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:33::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:33::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:33::SCWPlatform::Do not have an existing db opened. 
+TRACE::2026-06-01.14:44:34::SCWPlatform::Opened new HwDB with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:34::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2026-06-01.14:44:34::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper"
+		}]
+}
+TRACE::2026-06-01.14:44:35::SCWPlatform::Boot application domains not present, creating them
+TRACE::2026-06-01.14:44:35::SCWDomain::checking for install qemu data   : 
+TRACE::2026-06-01.14:44:35::SCWDomain:: Using the QEMU Data from install at  : C:/APP/VIVADO/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-06-01.14:44:35::SCWDomain:: Using the QEMU args  from install at  : C:/APP/VIVADO/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:35::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2026-06-01.14:44:35::SCWPlatform::Generating the sources  .
+TRACE::2026-06-01.14:44:35::SCWBDomain::Generating boot domain sources.
+TRACE::2026-06-01.14:44:35::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:35::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:35::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-06-01.14:44:35::SCWMssOS::No sw design opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::mss does not exists at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::Creating sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::Adding the swdes entry, created swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::updating the scw layer changes to swdes at   C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::Writing mss at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:35::SCWMssOS::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-06-01.14:44:35::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-01.14:44:35::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-01.14:44:35::SCWBDomain::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2026-06-01.14:44:41::SCWPlatform::Generating sources Done.
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2026-06-01.14:44:41::SCWMssOS::No sw design opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::mss exists loading the mss file  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Opened the sw design from mss  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Adding the swdes entry C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-06-01.14:44:41::SCWMssOS::updating the scw layer about changes
+TRACE::2026-06-01.14:44:41::SCWMssOS::Opened the sw design.  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:41::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:44:41::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:41::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWDomain::checking for install qemu data   : 
+TRACE::2026-06-01.14:44:41::SCWDomain:: Using the QEMU Data from install at  : C:/APP/VIVADO/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2026-06-01.14:44:41::SCWDomain:: Using the QEMU args  from install at  : C:/APP/VIVADO/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:41::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:41::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:41::SCWMssOS::No sw design opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::mss does not exists at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Creating sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Adding the swdes entry, created swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::updating the scw layer changes to swdes at   C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Writing mss at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:41::SCWMssOS::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2026-06-01.14:44:41::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-01.14:44:41::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2026-06-01.14:44:41::SCWMssOS::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2026-06-01.14:44:41::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system_0
+TRACE::2026-06-01.14:44:42::SCWMssOS::Writing the mss file completed C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2026-06-01.14:44:42::SCWPlatform::Started generating the artifacts platform led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-06-01.14:44:42::SCWPlatform::Started generating the artifacts for system configuration led_test_system_wrapper
+LOG::2026-06-01.14:44:42::SCWSystem::Checking the domain zynq_fsbl
+LOG::2026-06-01.14:44:42::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2026-06-01.14:44:42::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2026-06-01.14:44:42::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2026-06-01.14:44:42::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2026-06-01.14:44:42::SCWSystem::Not a boot domain 
+LOG::2026-06-01.14:44:42::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2026-06-01.14:44:42::SCWDomain::Generating domain artifcats
+TRACE::2026-06-01.14:44:42::SCWMssOS::Generating standalone artifcats
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying the qemu file from  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt To C:/HOC/HW_SW/BAI4/led_test_system_wrapper/export/led_test_system_wrapper/sw/led_test_system_wrapper/qemu/
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying the qemu file from  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt To C:/HOC/HW_SW/BAI4/led_test_system_wrapper/export/led_test_system_wrapper/sw/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu/
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2026-06-01.14:44:42::SCWMssOS::Mss edits present, copying mssfile into export location C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-01.14:44:42::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-06-01.14:44:42::SCWDomain::Skipping the build for domain :  standalone_ps7_cortexa9_0
+TRACE::2026-06-01.14:44:42::SCWMssOS::skipping the bsp build ... 
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying to export directory.
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-06-01.14:44:42::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2026-06-01.14:44:42::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2026-06-01.14:44:42::SCWSystem::Completed Processing the sysconfig led_test_system_wrapper
+LOG::2026-06-01.14:44:42::SCWPlatform::Completed generating the artifacts for system configuration led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started preparing the platform 
+TRACE::2026-06-01.14:44:42::SCWSystem::Writing the bif file for system config led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWSystem::dir created 
+TRACE::2026-06-01.14:44:42::SCWSystem::Writing the bif 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started writing the spfm file 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Completed generating the platform
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-06-01.14:44:42::SCWPlatform::updated the xpfm file.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2026-06-01.14:44:42::SCWPlatform::Started generating the artifacts platform led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2026-06-01.14:44:42::SCWPlatform::Started generating the artifacts for system configuration led_test_system_wrapper
+LOG::2026-06-01.14:44:42::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2026-06-01.14:44:42::SCWDomain::Generating domain artifcats
+TRACE::2026-06-01.14:44:42::SCWMssOS::Generating standalone artifcats
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying the qemu file from  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt To C:/HOC/HW_SW/BAI4/led_test_system_wrapper/export/led_test_system_wrapper/sw/led_test_system_wrapper/qemu/
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying the qemu file from  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt To C:/HOC/HW_SW/BAI4/led_test_system_wrapper/export/led_test_system_wrapper/sw/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu/
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Copying the user libraries. 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writing the mss file at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2026-06-01.14:44:42::SCWMssOS::Mss edits present, copying mssfile into export location C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2026-06-01.14:44:42::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2026-06-01.14:44:42::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2026-06-01.14:44:42::SCWMssOS::skipping the bsp build ... 
+TRACE::2026-06-01.14:44:42::SCWMssOS::Copying to export directory.
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2026-06-01.14:44:42::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2026-06-01.14:44:42::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2026-06-01.14:44:42::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2026-06-01.14:44:42::SCWSystem::Completed Processing the sysconfig led_test_system_wrapper
+LOG::2026-06-01.14:44:42::SCWPlatform::Completed generating the artifacts for system configuration led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started preparing the platform 
+TRACE::2026-06-01.14:44:42::SCWSystem::Writing the bif file for system config led_test_system_wrapper
+TRACE::2026-06-01.14:44:42::SCWSystem::dir created 
+TRACE::2026-06-01.14:44:42::SCWSystem::Writing the bif 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started writing the spfm file 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Started writing the xpfm file 
+TRACE::2026-06-01.14:44:42::SCWPlatform::Completed generating the platform
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:44:42::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:44:42::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:44:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:44:42::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:44:42::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:44:42::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2026-06-01.14:44:42::SCWPlatform::updated the xpfm file.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Removing the swdes entry for  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-06-01.14:59:47::SCWMssOS::Writing the mss file completed C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Removing the swdes entry for  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system_0
+TRACE::2026-06-01.14:59:47::SCWMssOS::Writing the mss file completed C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Removing the swdes entry for  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2026-06-01.14:59:47::SCWMssOS::Writing the mss file completed C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWWriter::formatted JSON is {
+	"platformName":	"led_test_system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"led_test_system_wrapper",
+	"platHandOff":	"C:/HOC/HW_SW/BAI4/ip_repo/led_test_system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/led_test_system_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"led_test_system_wrapper",
+	"systems":	[{
+			"systemName":	"led_test_system_wrapper",
+			"systemDesc":	"led_test_system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"led_test_system_wrapper",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"447d052b8fd4507b53c53f88c5514527",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/led_test_system_wrapper/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"25301186c5d2180d7208b3700c706ab6",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2026-06-01.14:59:47::SCWMssOS::Saving the mss changes C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2026-06-01.14:59:47::SCWMssOS::Commit changes completed.
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to open the hw design at C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA given C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA absoulate path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform::DSA directory C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Platform Path C:/HOC/HW_SW/BAI4/led_test_system_wrapper/hw/led_test_system_wrapper.xsa
+TRACE::2026-06-01.14:59:47::SCWPlatform:: Unique name xilinx:zc702::0.0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Trying to set the existing hwdb with name led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Opened existing hwdb led_test_system_wrapper_0
+TRACE::2026-06-01.14:59:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2026-06-01.14:59:47::SCWMssOS::Checking the sw design at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::DEBUG:  swdes dump  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system_0||
+C:/HOC/HW_SW/BAI4/led_test_system_wrapper/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2026-06-01.14:59:47::SCWMssOS::Sw design exists and opened at  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2026-06-01.14:59:47::SCWMssOS::Removing the swdes entry for  C:/HOC/HW_SW/BAI4/led_test_system_wrapper/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss

@@ -1,0 +1,18 @@
+{
+  "0": {
+    "basicblocks": 3,
+    "calls": "",
+    "file": "nco.cpp",
+    "fileloc": 421,
+    "instructions": 31,
+    "loads": {
+      "G": 2
+    },
+    "name": "nco",
+    "stores": {
+      "G": 2,
+      "T": 1
+    },
+    "total_instructions": 31
+  }
+}

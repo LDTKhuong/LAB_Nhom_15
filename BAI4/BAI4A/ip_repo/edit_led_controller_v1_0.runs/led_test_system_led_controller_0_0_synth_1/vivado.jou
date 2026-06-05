@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Jun  1 14:20:53 2026
+# Process ID: 11672
+# Current directory: C:/HOC/HW_SW/BAI4/ip_repo/edit_led_controller_v1_0.runs/led_test_system_led_controller_0_0_synth_1
+# Command line: vivado.exe -log led_test_system_led_controller_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_test_system_led_controller_0_0.tcl
+# Log file: C:/HOC/HW_SW/BAI4/ip_repo/edit_led_controller_v1_0.runs/led_test_system_led_controller_0_0_synth_1/led_test_system_led_controller_0_0.vds
+# Journal file: C:/HOC/HW_SW/BAI4/ip_repo/edit_led_controller_v1_0.runs/led_test_system_led_controller_0_0_synth_1\vivado.jou
+# Running On: DESKTOP-GV6BOLL, OS: Windows, CPU Frequency: 3793 MHz, CPU Physical cores: 16, Host memory: 16438 MB
+#-----------------------------------------------------------
+source led_test_system_led_controller_0_0.tcl -notrace

@@ -1,0 +1,46 @@
+{
+  "0": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nco.cpp",
+    "fileloc": 421,
+    "instructions": 28,
+    "loads": {
+      "G": 1,
+      "L": 1
+    },
+    "name": "nco",
+    "stores": {
+      "L": 2,
+      "T": 1
+    },
+    "total_instructions": 326
+  },
+  "1": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nco.cpp",
+    "fileloc": 419,
+    "instructions": 2,
+    "name": "__cxx_global_var_init.1",
+    "total_instructions": 387
+  },
+  "2": {
+    "basicblocks": 1,
+    "calls": "",
+    "file": "nco.cpp",
+    "fileloc": 7,
+    "instructions": 4097,
+    "name": "__cxx_global_var_init",
+    "total_instructions": 1581057
+  },
+  "3": {
+    "basicblocks": 1,
+    "calls": "2 1",
+    "file": "nco.pp.0.cpp",
+    "fileloc": 0,
+    "instructions": 3,
+    "name": "",
+    "total_instructions": 1581447
+  }
+}

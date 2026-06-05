@@ -1,0 +1,144 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "nco"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/directives.tcl",
+    "sourceLine": 7,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 1,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "INTERFACE",
+      "option": [
+        {
+          "name": "s_axilite",
+          "value": ""
+        },
+        {
+          "name": "port",
+          "value": "return"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/directives.tcl",
+    "sourceLine": 8,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 2,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "INTERFACE",
+      "option": [
+        {
+          "name": "ap_ctrl_none",
+          "value": ""
+        },
+        {
+          "name": "port",
+          "value": "return"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/directives.tcl",
+    "sourceLine": 9,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 3,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "INTERFACE",
+      "option": [
+        {
+          "name": "s_axilite",
+          "value": ""
+        },
+        {
+          "name": "port",
+          "value": "sine_sample"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/directives.tcl",
+    "sourceLine": 10,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 4,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "INTERFACE",
+      "option": [
+        {
+          "name": "s_axilite",
+          "value": ""
+        },
+        {
+          "name": "port",
+          "value": "step_size"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/directives.tcl",
+    "sourceLine": 11,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "nco",
+    "id": 5,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "nco"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "C:/HOC/HW_SW/BAI4/4C/hls_nco/solution1/csynth.tcl",
+    "sourceLine": 15,
+    "success": true
+  }
+]
